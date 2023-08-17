@@ -1,0 +1,7 @@
+## Interface: 20403
+## Title: LynStats
+## Author: Lyn, modified by Macumba
+## Notes: mail, xp, fps, mb usage, time, latency
+## SavedVariables: LynStatsDB
+## X-Credits: CML by rdji, evl_Clock by Evl
+core.lua
